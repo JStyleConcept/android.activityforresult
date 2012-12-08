@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Activity For Result</string>
+    <string name="title_firstactivity">First Activity</string>
+    <string name="title_secondactivity">Second Activity</string>
+    <string name="input1">Input 1 :</string>
+    <string name="input2">Input 2 :</string>
+    <string name="send">Send</string>
+    <string name="result1">Result 1 :</string>
+    <string name="result2">Result 2 :</string>
+    <string name="back">Back</string>
+    <string name="title_first_activity_src">FirstActivity Source Code</string>
+    <string name="title_second_activity_src">SecondActivity Source Code</string>
+    <string name="menu_sourcecode">View Source Code</string>
+
+</resources>

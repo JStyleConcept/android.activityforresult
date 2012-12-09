@@ -165,6 +165,7 @@ public final class R {
         public static final int button1=0x7f080005;
         public static final int editText1=0x7f080002;
         public static final int editText2=0x7f080004;
+        public static final int menu_quitapp=0x7f080007;
         public static final int menu_sourcecode=0x7f080006;
         public static final int textView1=0x7f080001;
         public static final int textView2=0x7f080003;
@@ -185,6 +186,7 @@ public final class R {
         public static final int back=0x7f050008;
         public static final int input1=0x7f050003;
         public static final int input2=0x7f050004;
+        public static final int menu_quitapp=0x7f05000c;
         public static final int menu_sourcecode=0x7f05000b;
         public static final int result1=0x7f050006;
         public static final int result2=0x7f050007;

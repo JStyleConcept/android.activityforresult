@@ -58,6 +58,9 @@ public class FirstActivity extends Activity {
 		case 0:
 			startActivity(intent);
 			break;
+		case 1:
+			moveTaskToBack(true);
+			break;
 		}
 		return super.onOptionsItemSelected(item);
 	}

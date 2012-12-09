@@ -13,5 +13,6 @@
     <string name="title_first_activity_src">FirstActivity Source Code</string>
     <string name="title_second_activity_src">SecondActivity Source Code</string>
     <string name="menu_sourcecode">View Source Code</string>
+    <string name="menu_quitapp">Quit App</string>
 
 </resources>

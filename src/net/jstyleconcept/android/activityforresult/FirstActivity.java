@@ -35,7 +35,7 @@ public class FirstActivity extends Activity {
 	}
 
 	@Override
-	protected void onActivityResult (int requestCode,int resultCode,Intent data) {
+	protected void onActivityResult(int requestCode,int resultCode,Intent data) {
 		switch(resultCode) {
 		case RESULT_OK:
 			Bundle bundle=data.getExtras();
